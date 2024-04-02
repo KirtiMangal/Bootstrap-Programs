@@ -9,7 +9,7 @@
 <body>
     <div class="jumbotron text-center">
         <div class="container">
-          <b><h1>A warm welcome!</h1></b>
+          <b><h1>A Warm Welcome!</h1></b>
         <p>Bootstrap utility classes are used to create this jumbotron since the old component has been<br>
                 removed from the framework.Why create custom CSS when you can use utilities?</p>
                <h2> <centre><button class="btn btn-primary">Call to action</button></centre></h2>
@@ -23,7 +23,7 @@
   <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-copy" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M4 2a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V2Zm2-1a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H6ZM2 5a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1v-1h1v1a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h1v1H2Z"/>
   </svg>
-            <b><h2>Fresh new layout</h2></b>
+            <b><h2>New Layout</h2></b>
             <p>With bootstrp 5,We have created a 
               fresh new layout for this template!</p>
             </div></div>
